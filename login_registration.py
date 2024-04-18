@@ -1,10 +1,10 @@
-import time 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.select import Select 
-from selenium.webdriver.support.ui import WebDriverWait
-driver = webdriver.Chrome()
-driver.maximize_window()
+# import time 
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support.select import Select 
+# from selenium.webdriver.support.ui import WebDriverWait
+# driver = webdriver.Chrome()
+# driver.maximize_window()
 
 # driver.get("https://practice.automationtesting.in/")
 # driver.find_element(By.ID, "menu-item-50").click()
@@ -13,9 +13,23 @@ driver.maximize_window()
 # passw = driver.find_element(By.ID, "reg_password") 
 # passw.send_keys("QwertyQwerty1234__12345")
 # driver.find_element(By.XPATH, "//input[@name='register']").click()
+# driver.quit()
 
 
 
+
+
+
+
+
+
+import time 
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.select import Select 
+from selenium.webdriver.support.ui import WebDriverWait
+driver = webdriver.Chrome()
+driver.maximize_window()
 driver.get("https://practice.automationtesting.in/")
 driver.find_element(By.ID, "menu-item-50").click()
 reg1 = driver.find_element(By.ID, "username") 

@@ -1,12 +1,11 @@
-import time 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.select import Select 
-from selenium.webdriver.support.ui import WebDriverWait
-driver = webdriver.Chrome()
-driver.maximize_window()
-
+# import time 
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.support.select import Select 
+# from selenium.webdriver.support.ui import WebDriverWait
+# driver = webdriver.Chrome()
+# driver.maximize_window()
 # driver.get("https://practice.automationtesting.in/")
 # driver.find_element(By.ID, "menu-item-50").click()
 # reg1 = driver.find_element(By.ID, "username") 
@@ -20,9 +19,24 @@ driver.maximize_window()
 # test = driver.find_element(By.XPATH, "//h1[text()='HTML5 Forms']")
 # assert test.text == "HTML5 Forms"
 # time.sleep(5)
+# driver.quit()
 
 
 
+
+
+
+
+
+
+# import time 
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.support.select import Select 
+# from selenium.webdriver.support.ui import WebDriverWait
+# driver = webdriver.Chrome()
+# driver.maximize_window()
 # driver.get("https://practice.automationtesting.in/")
 # driver.find_element(By.ID, "menu-item-50").click()
 # reg1 = driver.find_element(By.ID, "username") 
@@ -37,11 +51,25 @@ driver.maximize_window()
 # time.sleep(5)
 # items_count = driver.find_elements(By.CLASS_NAME, "woocommerce-LoopProduct-link")
 # assert len(items_count) == 3
+# driver.quit()
 
 
 
 
 
+
+
+
+
+
+# import time 
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.support.select import Select 
+# from selenium.webdriver.support.ui import WebDriverWait
+# driver = webdriver.Chrome()
+# driver.maximize_window()
 # driver.get("https://practice.automationtesting.in/")
 # driver.find_element(By.ID, "menu-item-50").click()
 # reg1 = driver.find_element(By.ID, "username") 
@@ -62,6 +90,20 @@ driver.maximize_window()
 
 
 
+
+
+
+
+
+
+# import time 
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.support.select import Select 
+# from selenium.webdriver.support.ui import WebDriverWait
+# driver = webdriver.Chrome()
+# driver.maximize_window()
 # driver.get("https://practice.automationtesting.in/")
 # driver.find_element(By.ID, "menu-item-50").click()
 # reg1 = driver.find_element(By.ID, "username") 
@@ -83,6 +125,20 @@ driver.maximize_window()
 
 
 
+
+
+
+
+
+
+# import time 
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.support.select import Select 
+# from selenium.webdriver.support.ui import WebDriverWait
+# driver = webdriver.Chrome()
+# driver.maximize_window()
 # driver.get("https://practice.automationtesting.in/")
 # driver.find_element(By.ID, "menu-item-40").click()
 # driver.find_element(By.XPATH, "//a[@data-product_id='182']").click()
@@ -97,6 +153,23 @@ driver.maximize_window()
 
 
 
+
+
+
+
+
+
+
+
+
+# import time 
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support import expected_conditions as EC
+# from selenium.webdriver.support.select import Select 
+# from selenium.webdriver.support.ui import WebDriverWait
+# driver = webdriver.Chrome()
+# driver.maximize_window()
 # driver.get("https://practice.automationtesting.in/")
 # driver.find_element(By.ID, "menu-item-40").click()
 # time.sleep(5)
@@ -124,6 +197,25 @@ driver.maximize_window()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+import time 
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.select import Select 
+from selenium.webdriver.support.ui import WebDriverWait
+driver = webdriver.Chrome()
+driver.maximize_window()
 driver.get("https://practice.automationtesting.in/")
 driver.find_element(By.ID, "menu-item-40").click()
 time.sleep(5)
